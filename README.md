@@ -43,6 +43,7 @@ Kullanılan Teknolojiler :
 ![Ekran görüntüsü 2024-12-19 195735](https://github.com/user-attachments/assets/8f4335b4-a228-4a83-baa8-928397462622)
 ![Ekran görüntüsü 2024-12-19 195808](https://github.com/user-attachments/assets/752657e7-1305-4ad6-9ef9-d1c295222c0c)
 ![Ekran görüntüsü 2024-12-19 195840](https://github.com/user-attachments/assets/64b1836c-e563-47cd-b246-7747a9cba740)
+![Ekran görüntüsü 2024-12-20 164308](https://github.com/user-attachments/assets/c026fb8b-1f07-4951-bf62-dd65be2216ea)
 ![Ekran görüntüsü 2024-12-19 195852](https://github.com/user-attachments/assets/26695fa1-06a1-4987-9812-efe3052906e1)
 
 

@@ -1,5 +1,5 @@
 # SignalRProject
-Bu proje C# ile geliştirilmiş bir restoran sipariş yönetimi uygulamasıdır. Kullanıcılar proje üzerinden yemek siparişi verebilir, rezervasyon oluşturabilir, iletişim kısmından mesaj yollayabilir, projede kullanılan SignalR sayesinde restoran ile anlık mesajlaşabilir. Ayrıca proje üzerinden Rapid Api ile çekilmiş olan yemek tariflerinin videolarına ulaşabilirsiniz. Admin panelinde ise SignalR ile anlık olarak rezervasyonları, bildirimleri ve istatislikleri görebilir, kullanıcılara mail gönderme işlemi yapabilirsiniz .Ayrıca tüm sayfalarla ilgili CRUD işlemlerini gerçekleştirebilirsiniz.
+Bu proje C# dilinde ASP.NET Core 6.0 ile geliştirilmiş restoranlar için dinamik bir QR kodlu sipariş yönetimi uygulamasıdır. Kullanıcılar proje üzerinden yemek siparişi verebilir, rezervasyon oluşturabilir, iletişim kısmından mesaj yollayabilir, projede kullanılan SignalR sayesinde restoran ile anlık mesajlaşabilir. Ayrıca proje üzerinden Rapid Api ile çekilmiş olan yemek tariflerinin videolarına ulaşabilirsiniz. Admin panelinde ise SignalR ile anlık olarak rezervasyonları, bildirimleri ve istatislikleri görebilir, kullanıcılara mail gönderme işlemi yapabilirsiniz .Ayrıca tüm sayfalarla ilgili CRUD işlemlerini gerçekleştirebilirsiniz.
 
 
 
